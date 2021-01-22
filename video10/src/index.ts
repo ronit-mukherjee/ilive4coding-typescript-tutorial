@@ -35,7 +35,7 @@ const student:{
 //DEFINITE ASSIGNMENT
 let a:string;
 
-a.toUpperCase();
+//a.toUpperCase();
 
 
 
